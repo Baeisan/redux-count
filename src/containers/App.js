@@ -9,7 +9,7 @@ import { getRandomColor } from '../utils';
 
 class App extends Component {
     render() {
-        console.log('앱렌더링')
+        console.log('앱렌더링zzz')
         const { onCreate, onRemove } = this.props;
         return (
             <div className="App">
